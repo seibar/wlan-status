@@ -1,6 +1,6 @@
 {
 	"name": "wlan-status",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Library for fetching local wireless LAN status",
 	"main": "dist/index.js",
 	"scripts": {

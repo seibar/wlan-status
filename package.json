@@ -10,6 +10,10 @@
 	},
 	"author": "AJ Rabe <aj.rabe@gmail.com>",
 	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/seibar/wlan-status"
+	},
 	"semistandard": {
 		"ignore": [
 			"dist/"

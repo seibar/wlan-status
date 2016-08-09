@@ -1,0 +1,40 @@
+{
+	"env": {
+		"node": true,
+		"es6": true
+	},
+	"extends": "eslint:recommended",
+	"parserOptions": {
+		"ecmaVersion": 6,
+		"sourceType": "module"
+	},
+	"rules": {
+		"indent": [
+			"error",
+			"tab"
+		],
+		"quotes": [
+			"error",
+			"single"
+		],
+		"semi": [
+			"error",
+			"always"
+		],
+		"eqeqeq": [
+			"error",
+			"smart"
+		],
+		"no-inline-comments": [
+			"error"
+		],
+		"space-before-function-paren": [
+			"error",
+			"always"
+		],
+		"spaced-comment": [
+			"error",
+			"always"
+		]
+	}
+}

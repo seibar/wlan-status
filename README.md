@@ -1,5 +1,7 @@
 # wlan-status
 
+[![Build Status](https://travis-ci.org/seibar/wlan-status.svg?branch=master)](https://travis-ci.org/seibar/wlan-status)
+
 A node.js library that gets the results of the underlying operating system's available wireless connections, including available SSIDs, BSSIDs, encryption types, signal strength, and more.
 
 #### Windows only (for now)
